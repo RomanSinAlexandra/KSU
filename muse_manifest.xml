@@ -1,0 +1,269 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KSUtil.ua" resolutions="1x" timestamp="1720175416159">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3851950369" ref="index"/>
+    <file name="nomq_index.css" crc="422082140" ref="index"/>
+    <file name="servives.css" crc="4038726376" ref="servives"/>
+    <file name="nomq_servives.css" crc="3848015387" ref="servives"/>
+    <file name="document.css" crc="4138782348" ref="document"/>
+    <file name="nomq_document.css" crc="58611988" ref="document"/>
+    <file name="contacts.css" crc="318850002" ref="contacts"/>
+    <file name="nomq_contacts.css" crc="4152232860" ref="contacts"/>
+  </folder>
+  <folder name="fonts">
+    <file name="mazzardsoftm-light.woff" crc="201760558"/>
+    <file name="mazzardsoftm-light.eot" crc="4218043820"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>servives:phone>document:phone>contacs:tablet>index:tablet>servives:tablet>documents:tablet>contacts:index:servives:document:contacts"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>servives:phone>document:phone>contacs:tablet>index:tablet>servives:tablet>documents:tablet>contacts:index:servives:document:contacts"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>servives:phone>document:phone>contacs:tablet>index:tablet>servives:tablet>documents:tablet>contacts:index:servives:document:contacts"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>servives:phone>document:phone>contacs:tablet>index:tablet>servives:tablet>documents:tablet>contacts:index:servives:document:contacts"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>servives:phone>document:phone>contacs:tablet>index:tablet>servives:tablet>documents:tablet>contacts:index:servives:document:contacts"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>servives:phone>document:phone>contacs:tablet>index:tablet>servives:tablet>documents:tablet>contacts:index:servives:document:contacts"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>servives:phone>document:phone>contacs:tablet>index:tablet>servives:tablet>documents:tablet>contacts:index:servives:document:contacts"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:servives:document:contacts"/>
+  </folder>
+  <folder name="images">
+    <file name="ksutil logo.png" crc="3965656760" ref="phone>index:phone>servives:phone>document:phone>contacs:tablet>index:tablet>servives:tablet>documents:tablet>contacts:index:servives:document:contacts">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contacs" alt=""/>
+      <caption webpage="documents" alt=""/>
+      <caption webpage="servives" alt=""/>
+      <caption webpage="servives" alt=""/>
+      <caption webpage="servives" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="u19809-4.png" crc="501436867" ref="phone>index"/>
+    <file name="recycle.png" crc="3823087427" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="laundromat-1453315_1280.jpg" crc="3894794433" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="printers-344016_1280.jpg" crc="252924902" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ksutil logo-buttonu19771-r-fr.png" crc="4085970940" ref="phone>servives:phone>document:phone>contacs:tablet>servives:tablet>documents:tablet>contacts:document"/>
+    <file name="ksutil logo-buttonu19771-m-fr.png" crc="4195279700" ref="phone>servives:phone>document:phone>contacs:tablet>servives:tablet>documents:tablet>contacts:document"/>
+    <file name="u19772-4.png" crc="501436867" ref="phone>servives"/>
+    <file name="vehicle-3327066_1920-u8911-fr.png" crc="434851273" ref="phone>servives"/>
+    <file name="logomusic-u8915-fr.png" crc="4014670895" ref="phone>servives"/>
+    <file name="logooffice-u8914-fr.png" crc="28532329" ref="phone>servives"/>
+    <file name="logotrans-u8913-fr.png" crc="4240172124" ref="phone>servives"/>
+    <file name="logoelectric-u8916-fr.png" crc="38195884" ref="phone>servives"/>
+    <file name="logopobut-u8917-fr.png" crc="4175824648" ref="phone>servives"/>
+    <file name="green earth.png" crc="68832073" ref="phone>servives:servives">
+      <caption webpage="servives" alt=""/>
+    </file>
+    <file name="ukraine-7291492_1920.png" crc="29827211" ref="phone>servives">
+      <caption webpage="servives" alt=""/>
+    </file>
+    <file name="u19735-4.png" crc="501436867" ref="phone>document"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>document:tablet>documents:index:servives:document:contacts"/>
+    <file name="витяг №10283400656.jpg" crc="4292402842" ref="phone>document:tablet>documents:document">
+      <caption webpage="documents" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+    </file>
+    <file name="виписка з єдиного державного реєстру.jpg" crc="4224120159" ref="phone>document:tablet>documents:document">
+      <caption webpage="documents" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+    </file>
+    <file name="витяг з єдиного державного реєстру.jpg" crc="154290347" ref="phone>document:tablet>documents:document">
+      <caption webpage="documents" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+    </file>
+    <file name="ліцензія державна пробірна служба украіни.jpg" crc="4222324879" ref="phone>document:tablet>documents:document">
+      <caption webpage="documents" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+    </file>
+    <file name="справка дм 1.jpg" crc="4114594344" ref="phone>document:tablet>documents:document">
+      <caption webpage="documents" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+    </file>
+    <file name="зразок договору.jpg" crc="1183453" ref="phone>document:tablet>documents:document">
+      <caption webpage="documents" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+    </file>
+    <file name="прайс киев спец 2023.jpg" crc="322196338" ref="phone>document:tablet>documents:document">
+      <caption webpage="documents" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+      <caption webpage="document" alt=""/>
+    </file>
+    <file name="u18362-4.png" crc="501436867" ref="phone>contacs"/>
+    <file name="pc-3979560_1920.jpg" crc="3776129186" ref="phone>contacs:contacts">
+      <caption webpage="contacs" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+    </file>
+    <file name="u4445-4-a.png" crc="250121421" ref="tablet>index"/>
+    <file name="background-u4422-fr.jpg" crc="323676409" ref="tablet>index:phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recycle-u4423-fr.png" crc="383346365" ref="tablet>index"/>
+    <file name="laundromat-1453315_1280-u4441-fr.jpg" crc="3995174222" ref="tablet>index"/>
+    <file name="printers-344016_1280-u4442-fr.jpg" crc="3819499864" ref="tablet>index"/>
+    <file name="u15325-4.png" crc="250121421" ref="tablet>servives"/>
+    <file name="vehicle-3327066_1920-u15361-fr.png" crc="249475877" ref="tablet>servives"/>
+    <file name="logopobut-u15378-fr.png" crc="4281483686" ref="tablet>servives"/>
+    <file name="logooffice-u15375-fr.png" crc="87478156" ref="tablet>servives"/>
+    <file name="logotrans-u15380-fr.png" crc="4028461324" ref="tablet>servives"/>
+    <file name="logomusic-u15376-fr.png" crc="4066914166" ref="tablet>servives"/>
+    <file name="logoelectric-u15377-fr.png" crc="109372563" ref="tablet>servives"/>
+    <file name="ukraine-7291492_1920-u15364-fr.png" crc="3912069650" ref="tablet>servives"/>
+    <file name="green earth-u15365-fr.png" crc="181156942" ref="tablet>servives"/>
+    <file name="u15627-4.png" crc="250121421" ref="tablet>documents"/>
+    <file name="u16555-4.png" crc="250121421" ref="tablet>contacts"/>
+    <file name="pc-3979560_1920-u16440-fr.jpg" crc="374188547" ref="tablet>contacts"/>
+    <file name="favicon.ico" crc="501833094" ref="index:servives:contacts"/>
+    <file name="u17565-4-a.png" crc="3758119882" ref="index"/>
+    <file name="laundromat-1453315_1280-u3416-fr.jpg" crc="4230425541" ref="index"/>
+    <file name="printers-344016_1280-u3417-fr.jpg" crc="496889564" ref="index"/>
+    <file name="u20123-4-a.png" crc="501436867" ref="index"/>
+    <file name="laundromat-1453315_1280-u3416-fr2.jpg" crc="3884117002" ref="index"/>
+    <file name="printers-344016_1280-u3417-fr2.jpg" crc="458865019" ref="index"/>
+    <file name="u18709-4-a.png" crc="22595774" ref="index"/>
+    <file name="laundromat-1453315_1280-u3416-fr3.jpg" crc="295497029" ref="index"/>
+    <file name="printers-344016_1280-u3417-fr3.jpg" crc="370517448" ref="index"/>
+    <file name="u17684-4.png" crc="3758119882" ref="servives"/>
+    <file name="vehicle-3327066_1920-u5523-fr.png" crc="4049381201" ref="servives"/>
+    <file name="logoelectric-u5900-fr.png" crc="4008538108" ref="servives"/>
+    <file name="logooffice-u5858-fr.png" crc="199309416" ref="servives"/>
+    <file name="logotrans-u5817-fr.png" crc="150011099" ref="servives"/>
+    <file name="logomusic-u5875-fr.png" crc="4053342224" ref="servives"/>
+    <file name="logopobut-u5917-fr.png" crc="4281710896" ref="servives"/>
+    <file name="ukraine-7291492_1920-u5998-fr.png" crc="3811570905" ref="servives"/>
+    <file name="vehicle-3327066_1920-u5523-fr2.png" crc="363873408" ref="servives"/>
+    <file name="logoelectric-u5900-fr2.png" crc="66971974" ref="servives"/>
+    <file name="logooffice-u5858-fr2.png" crc="252024880" ref="servives"/>
+    <file name="logotrans-u5817-fr2.png" crc="3782815093" ref="servives"/>
+    <file name="logomusic-u5875-fr2.png" crc="37612565" ref="servives"/>
+    <file name="logopobut-u5917-fr2.png" crc="3800951150" ref="servives"/>
+    <file name="ukraine-7291492_1920-u5998-fr2.png" crc="494906540" ref="servives"/>
+    <file name="vehicle-3327066_1920-u5523-fr3.png" crc="4190072163" ref="servives"/>
+    <file name="green earth-u6011-fr.png" crc="208623013" ref="servives"/>
+    <file name="ukraine-7291492_1920-u5998-fr3.png" crc="3877007581" ref="servives"/>
+    <file name="green earth-u6011-fr2.png" crc="362511095" ref="servives"/>
+    <file name="u6667-4.png" crc="208139248" ref="servives"/>
+    <file name="u17826-4.png" crc="3758119882" ref="document"/>
+    <file name="u17826-42.png" crc="3758119882" ref="document"/>
+    <file name="u11764-4.png" crc="133865779" ref="document"/>
+    <file name="ksutil logo-buttonu19321-fr.png" crc="3904107402" ref="document"/>
+    <file name="ksutil logo-buttonu19321-r-fr.png" crc="4274330129" ref="document"/>
+    <file name="ksutil logo-buttonu19321-m-fr.png" crc="4129313238" ref="document"/>
+    <file name="u19328-4.png" crc="124304972" ref="document"/>
+    <file name="ksutil logo-buttonu11763-fr.png" crc="3859734787" ref="document"/>
+    <file name="ksutil logo-buttonu11763-r-fr.png" crc="330611966" ref="document"/>
+    <file name="ksutil logo-buttonu11763-m-fr.png" crc="3970813733" ref="document"/>
+    <file name="u12167-4.png" crc="180268571" ref="document"/>
+    <file name="u17992-4.png" crc="3758119882" ref="contacts"/>
+    <file name="u17992-42.png" crc="3758119882" ref="contacts"/>
+    <file name="u17992-43.png" crc="3817878279" ref="contacts"/>
+    <file name="u12872-4.png" crc="501436867" ref="contacts"/>
+    <file name="pc-3979560_1920-u11044-fr.jpg" crc="4114752110" ref="contacts"/>
+    <file name="ksutil logo-buttonu13078-fr.png" crc="3769594507" ref="contacts"/>
+    <file name="ksutil logo-buttonu13078-r-fr.png" crc="103436912" ref="contacts"/>
+    <file name="ksutil logo-buttonu13078-m-fr.png" crc="3858951654" ref="contacts"/>
+    <file name="u13079-4.png" crc="4193215138" ref="contacts"/>
+    <file name="pc-3979560_1920-u11044-fr2.jpg" crc="210950779" ref="contacts"/>
+    <file name="u13222-4.png" crc="518382215" ref="contacts"/>
+    <file name="u20814-4.png" crc="3828910931" ref="servives"/>
+    <file name="ksutil logo-buttonu13221-fr.png" crc="3966596023" ref="contacts"/>
+    <file name="ksutil logo-buttonu13221-r-fr.png" crc="3970221536" ref="contacts"/>
+    <file name="ksutil logo-buttonu13221-m-fr.png" crc="205739017" ref="contacts"/>
+    <file name="ksutil logo-buttonu17991-r-fr.png" crc="4085970940" ref="contacts"/>
+    <file name="ksutil logo-buttonu17991-m-fr.png" crc="4195279700" ref="contacts"/>
+    <file name="pc-3979560_1920-u13460-fr.jpg" crc="374188547" ref="contacts"/>
+    <file name="ksutil logo-buttonu15297-r-fr.png" crc="4085970940" ref="tablet>index"/>
+    <file name="ksutil logo-buttonu15297-m-fr.png" crc="4195279700" ref="tablet>index"/>
+    <file name="ksutil logo-buttonu17683-r-fr.png" crc="4085970940" ref="servives"/>
+    <file name="ksutil logo-buttonu17683-m-fr.png" crc="4195279700" ref="servives"/>
+    <file name="logomusic-u5875-fr3.png" crc="4014670895" ref="servives"/>
+    <file name="logooffice-u5858-fr3.png" crc="28532329" ref="servives"/>
+    <file name="logotrans-u5817-fr3.png" crc="4240172124" ref="servives"/>
+    <file name="logoelectric-u5900-fr3.png" crc="38195884" ref="servives"/>
+    <file name="logopobut-u5917-fr3.png" crc="4175824648" ref="servives"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3827476543" ref="tablet>index"/>
+      <file name="contacts.css" crc="48786790" ref="tablet>contacts"/>
+      <file name="nomq_contacts.css" crc="3824530138" ref="tablet>contacts"/>
+      <file name="documents.css" crc="179684045" ref="tablet>documents"/>
+      <file name="servives.css" crc="3909296655" ref="tablet>servives"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3864128366" seo="true" mt="1720175237623" redirect="true"/>
+    <file name="servives.html" crc="3797933890" seo="true" mt="1720173614622" redirect="true"/>
+    <file name="documents.html" crc="349152230" seo="true" mt="1720114278842" redirect="true"/>
+    <file name="contacts.html" crc="3974425210" seo="true" mt="1720173295700" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="servives.css" crc="4278185487" ref="phone>servives"/>
+      <file name="document.css" crc="92777398" ref="phone>document"/>
+      <file name="index.css" crc="332184348" ref="phone>index"/>
+      <file name="contacs.css" crc="45364898" ref="phone>contacs"/>
+      <file name="nomq_contacs.css" crc="3824530138" ref="phone>contacs"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="31591437" seo="true" mt="1720175237625" redirect="true"/>
+    <file name="servives.html" crc="4031786716" seo="true" mt="1720173599352" redirect="true"/>
+    <file name="document.html" crc="107651267" seo="true" mt="1720114679327" redirect="true"/>
+    <file name="contacs.html" crc="3845534457" seo="true" mt="1720172936190" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4192386827" seo="true" mt="1720175237623" redirect="true"/>
+  <file name="servives.html" crc="4125409056" seo="true" mt="1720175405699" redirect="true"/>
+  <file name="document.html" crc="215532460" seo="true" mt="1720113644073" redirect="true"/>
+  <file name="contacts.html" crc="328148805" seo="true" mt="1720175129762" redirect="true"/>
+</manifest>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://KSUtil.ua/index.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://KSUtil.ua/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://KSUtil.ua/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://KSUtil.ua/phone/contacs.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://KSUtil.ua/servives.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://KSUtil.ua/phone/servives.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://KSUtil.ua/tablet/servives.html"/>
+  </url>
+  <url>
+    <loc>http://KSUtil.ua/tablet/documents.html</loc>
+    <lastmod>2024-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://KSUtil.ua/document.html</loc>
+    <lastmod>2024-07-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://KSUtil.ua/phone/document.html"/>
+  </url>
+  <url>
+    <loc>http://KSUtil.ua/contacts.html</loc>
+    <lastmod>2024-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://KSUtil.ua/tablet/contacts.html"/>
+  </url>
+</urlset>
